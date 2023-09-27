@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['+14432187210', 'me', true],
-  ['+918438374975', 'Ash', true], 
+  ['+918618971837', 'c2', true],
+  ['+918438374975', '𝕹𝖆𝖙𝖍𝖆𝖓 𓇻', true], 
   [''] 
 ] //Number of owners
 
@@ -47,16 +47,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '𝕹𝖆𝖙𝖍𝖆𝖓 𓇻'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = '𝕹𝖆𝖙𝖍𝖆𝖓 𓇻' 
 global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagm.com/aslguru69\n' 
+global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3m2a1Ur8f'
+global.fgsc = 'https://github.com/Gur22/GURU-BOT-V1' 
+global.fgyt = 'https://youtube.comsliguru'
+global.fgpyp = 'https://youtube.com/sliguru'
+global.fglog = 'https://raw.githubusercontent.co22/api/Guru/guru.jpg' 
 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
